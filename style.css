@@ -1,0 +1,11 @@
+body {
+	background-color: lightblue;
+}
+#app {
+	width:800px;
+	margin: 50px auto;
+	text-align: center;
+}
+ul, li {
+	list-style-type: none;
+}
